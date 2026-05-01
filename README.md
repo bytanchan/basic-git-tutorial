@@ -1,1 +1,1 @@
-Updated README.md from remote repo (i.e., Github)
+This repository will show you a basic git workflow for individuals or small teams
